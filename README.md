@@ -1,6 +1,5 @@
 ### hi
 
-you'd put a portfolio here. i put a picture of a funny emoji
+i find interest in making programs do things it's not supposed to do by default. including cheats. i don't pick sides i just find them interesting from a technical standpoint.
 
-nothing is of use here unless you use bad code as entertainment :3
-![research the icons roblox stole 10+ years ago, i took it from there i think idk](https://files.catbox.moe/t2of16.png)
+uhh i'll add a portfolio when i have enough to show. even though i know Luau, i am not your roblox scripter thanks
